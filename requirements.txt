@@ -1,0 +1,9 @@
+streamlit 
+pandas 
+plotly 
+spacy 
+google-generativeai 
+openpyxl
+python-dotenv      
+transformers       
+

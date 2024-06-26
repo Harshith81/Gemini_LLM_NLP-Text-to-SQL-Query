@@ -1,0 +1,15 @@
+{
+    "manifest_version": 3,
+    "name": "Text Query to SQLite Response",
+    "version": "1.0",
+    "description": "It will query the provided text aganist the uploaded databse file and provide the corresponding response based on the sqlite query",
+    "permissions": [
+        "activeTab"
+    ],
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": {
+            "16": "favicon-16x16.png"
+        }
+    }
+}
